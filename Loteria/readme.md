@@ -50,10 +50,13 @@ numEsco[pos -1] = num;
 
 
 ## Imagens do código
+**Tela 1:** Pagina inicial para digitar os números que serão sorteados.
+ ![Tela 1](imagem/1.jpg)
+ **Tela 2:** Números digitados e sorteados com 1 acerto.
+ ![Tela 2](imagem/2.jpg)
 
-![Tela 1](/imagem/1.jpg)
 
-![Tela 2](/imagem/2.jpg)
+
 
 
 ## Exemplo em tabela
