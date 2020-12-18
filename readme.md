@@ -52,10 +52,7 @@ numEsco[pos -1] = num;
 ## Imagens do código
 **Tela 1:** Pagina inicial para digitar os números que serão sorteados.
  ![Tela 1](imagem/1.jpg)
-<<<<<<< HEAD
  
-=======
->>>>>>> 175c5ed8c5d7662b29842211bf789d158f05c508
  **Tela 2:** Números digitados e sorteados com 1 acerto.
  ![Tela 2](imagem/2.jpg)
 
